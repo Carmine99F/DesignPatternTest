@@ -1,4 +1,4 @@
-package Figure;
+package AdapterPattern.Figure;
 
 //oggeto da rendere compatibile con l'interfaccia esposta al Client (Polygon)
 public class Rectangle {

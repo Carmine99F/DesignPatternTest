@@ -1,4 +1,4 @@
-package Figure;
+package AdapterPattern.Figure;
 
 //Interfaccia target che viene utilizzata dal Client
 public interface Polygon {

@@ -1,4 +1,4 @@
-package MediaPlayer;
+package AdapterPattern.MediaPlayer;
 
 public class Mp4Player implements AdavncedMediaPlayer{
     @Override

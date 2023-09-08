@@ -1,4 +1,4 @@
-package MediaPlayer;
+package AdapterPattern.MediaPlayer;
 
 public class AdapterPatternMain {
 

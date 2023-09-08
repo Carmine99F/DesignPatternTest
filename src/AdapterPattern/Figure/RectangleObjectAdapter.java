@@ -1,4 +1,4 @@
-package Figure;
+package AdapterPattern.Figure;
 
 public class RectangleObjectAdapter implements Polygon{
 
